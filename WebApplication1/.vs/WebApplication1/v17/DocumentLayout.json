@@ -1,0 +1,517 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\repositories\\docenterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repositories\\docenterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\repositories\\cursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repositories\\cursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\controllers\\docentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\docentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\services\\docenteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\docenteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\services\\jwtsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\jwtsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\interfaces\\iservice\\idocenteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interfaces\\iservice\\idocenteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\interfaces\\irepository\\idocenterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interfaces\\irepository\\idocenterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\data\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\services\\cursoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\cursoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\dtos\\cursodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\cursodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\dtos\\userdtoresponsetokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\userdtoresponsetokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\interfaces\\iservice\\icursoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interfaces\\iservice\\icursoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\interfaces\\iservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interfaces\\iservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\interfaces\\irepository\\icursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interfaces\\irepository\\icursorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\entities\\docentecursoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\entities\\docentecursoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\entities\\docenteentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\entities\\docenteentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\entities\\cursoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\entities\\cursoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\query\\docentequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\query\\docentequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\interfaces\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\interfaces\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\dtos\\docentedtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\docentedtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|c:\\users\\ramir\\desktop\\utn\\programacio\\practico\\tarea-14-06-24-113855-sanchez\\webapplication1\\webapplication1\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22BA1F8-2814-46E3-8D3B-9B6F5400A10D}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "WebApplication1\\Dtos\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:04:32.305Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocenteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Repositories\\DocenteRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repositories\\DocenteRepository.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Repositories\\DocenteRepository.cs*",
+              "RelativeToolTip": "WebApplication1\\Repositories\\DocenteRepository.cs*",
+              "ViewState": "AQIAADMAAAAAAAAAAAA4wE4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T23:46:31.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Program.cs*",
+              "RelativeToolTip": "WebApplication1\\Program.cs*",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwB8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T21:45:19.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T22:55:46.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CursoController.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Controllers\\CursoController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\CursoController.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Controllers\\CursoController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\CursoController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T22:52:25.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocenteController.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Controllers\\DocenteController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\DocenteController.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Controllers\\DocenteController.cs*",
+              "RelativeToolTip": "WebApplication1\\Controllers\\DocenteController.cs*",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwCoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T01:36:56.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CursoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Repositories\\CursoRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repositories\\CursoRepository.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Repositories\\CursoRepository.cs*",
+              "RelativeToolTip": "WebApplication1\\Repositories\\CursoRepository.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T22:15:33.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DocenteService.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Services\\DocenteService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\DocenteService.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Services\\DocenteService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\DocenteService.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAApwDcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:12:30.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtSetting.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Services\\JwtSetting.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\JwtSetting.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Services\\JwtSetting.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\JwtSetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T02:10:27.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Services\\UserService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\UserService.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAowE0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T22:52:46.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDocenteService.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Interfaces\\IService\\IDocenteService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Interfaces\\IService\\IDocenteService.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Interfaces\\IService\\IDocenteService.cs",
+              "RelativeToolTip": "WebApplication1\\Interfaces\\IService\\IDocenteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:00:44.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDocenteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Interfaces\\IRepository\\IDocenteRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Interfaces\\IRepository\\IDocenteRepository.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Interfaces\\IRepository\\IDocenteRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Interfaces\\IRepository\\IDocenteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T23:41:25.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContextDb.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Data\\ContextDb.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\ContextDb.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Data\\ContextDb.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\ContextDb.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T13:06:24.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T23:00:22.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Response\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Response\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Response\\ApiResponse.cs",
+              "RelativeToolTip": "WebApplication1\\Response\\ApiResponse.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:48:38.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\appsettings.Development.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.Development.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T22:57:32.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CursoService.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Services\\CursoService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\CursoService.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Services\\CursoService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\CursoService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T22:34:20.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CursoDto.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Dtos\\CursoDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Dtos\\CursoDto.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Dtos\\CursoDto.cs",
+              "RelativeToolTip": "WebApplication1\\Dtos\\CursoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T22:35:43.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T23:13:36.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserDtoResponseTokenDto.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Dtos\\UserDtoResponseTokenDto.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Dtos\\UserDtoResponseTokenDto.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Dtos\\UserDtoResponseTokenDto.cs",
+              "RelativeToolTip": "WebApplication1\\Dtos\\UserDtoResponseTokenDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T22:36:41.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICursoService.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Interfaces\\IService\\ICursoService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Interfaces\\IService\\ICursoService.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Interfaces\\IService\\ICursoService.cs",
+              "RelativeToolTip": "WebApplication1\\Interfaces\\IService\\ICursoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T22:34:41.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Interfaces\\IService\\IUserService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Interfaces\\IService\\IUserService.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Interfaces\\IService\\IUserService.cs",
+              "RelativeToolTip": "WebApplication1\\Interfaces\\IService\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:01:11.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICursoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Interfaces\\IRepository\\ICursoRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Interfaces\\IRepository\\ICursoRepository.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Interfaces\\IRepository\\ICursoRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Interfaces\\IRepository\\ICursoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T22:19:08.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DocenteEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Entities\\DocenteEntity.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Entities\\DocenteEntity.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Entities\\DocenteEntity.cs",
+              "RelativeToolTip": "WebApplication1\\Entities\\DocenteEntity.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:10:09.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CursoEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Entities\\CursoEntity.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Entities\\CursoEntity.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Entities\\CursoEntity.cs",
+              "RelativeToolTip": "WebApplication1\\Entities\\CursoEntity.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T22:12:41.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DocenteCursoEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Entities\\DocenteCursoEntity.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Entities\\DocenteCursoEntity.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Entities\\DocenteCursoEntity.cs",
+              "RelativeToolTip": "WebApplication1\\Entities\\DocenteCursoEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:10:07.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DocenteQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Query\\DocenteQuery.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Query\\DocenteQuery.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Query\\DocenteQuery.cs",
+              "RelativeToolTip": "WebApplication1\\Query\\DocenteQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:43:23.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Interfaces\\IRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Interfaces\\IRepository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Interfaces\\IRepository\\IUserRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Interfaces\\IRepository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T23:40:48.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DocenteDtoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Dtos\\DocenteDtoResponse.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Dtos\\DocenteDtoResponse.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Dtos\\DocenteDtoResponse.cs",
+              "RelativeToolTip": "WebApplication1\\Dtos\\DocenteDtoResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:09:55.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Mapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\ramir\\Desktop\\Utn\\programacio\\Practico\\tarea-14-06-24-113855-Sanchez\\WebApplication1\\WebApplication1\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "WebApplication1\\Mapper\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T00:19:36.7Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
