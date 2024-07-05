@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wuQTvZl0k1znkwqXKPJVN+hb7aN+yHgzC7YcfjWoxumO3GbKQuY3s5V4A+jhl2EVXI7974mjwePh8kvzboc0Hw==",
+  "dgSpecHash": "kj7yN5kCU4IDrlbcNx3TrxDO8gEq/bYOmLykIw2ZGpDxZNWCKKgthvRQlVwFtvs2/ZvVWV+52DWoHfKZGe4/Nw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Programacion 3 Documentacion UV\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Programacion 3 Documentacion UV\\Club2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
